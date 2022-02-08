@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: ee30ea9a7a2fccc4d8b2382d02bc021a
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: 91f7fac991d6738409bd16f48a3b8651
+  - enabled: 1
+    path: Assets/Scenes/afterPlay.unity
+    guid: 6dae6fbc66a21ea4fb0350cb083203cf
+  - enabled: 1
+    path: Assets/Scenes/English Game.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/EvenNumbers.unity
+    guid: d2809ab9b90eea7419d8d90d4c505d35
+  - enabled: 1
+    path: Assets/Scenes/game.unity
+    guid: 08bbb782058fa854f8499b6e54a20a1e
+  - enabled: 1
+    path: Assets/Scenes/GameLessons.unity
+    guid: 7ecadb4a37d7b1943b8df5cb94c8a925
+  - enabled: 1
+    path: Assets/Scenes/GuidingParent.unity
+    guid: f51ba53d9e619cd4aa9efdcf55bcec0e
+  - enabled: 1
+    path: Assets/Scenes/JigSaw.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Spelling/GameOverLevel.unity
+    guid: 37823b0e657327143bdc4a68139e79b0
+  - enabled: 1
+    path: Assets/Spelling/Spelling.unity
+    guid: 8cfb650bcff064343a5e1f343e62a7da
+  - enabled: 1
+    path: Assets/Spelling/Stage1.unity
+    guid: 1acfabe9cde688f4096646b5cf103023
+  - enabled: 1
+    path: Assets/VideoPlayer/Env.unity
+    guid: b483809e02b8056479b889d0d6df1aab
+  - enabled: 1
+    path: Assets/VideoPlayer/Alph.unity
+    guid: 890c9100362875e41919ed6b62cc3b96
+  - enabled: 1
+    path: Assets/Scenes/lastgame.unity
+    guid: f9b28ffa17ddb5245b3a02463b150233
+  - enabled: 1
+    path: Assets/Scenes/Letters.unity
+    guid: 3b0641a7472e5144bb47cfb7182f0a05
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5d85fc831f701fc4393fca91e67e6f97
+  - enabled: 1
+    path: Assets/Scenes/Methodology.unity
+    guid: 28ac064a622a8014ba498b41d11fa506
+  - enabled: 1
+    path: Assets/Scenes/Numbers.unity
+    guid: 7e4bde466fb16e14e9a01c640ca596fd
+  - enabled: 1
+    path: Assets/Scenes/NumbersTest.unity
+    guid: 97127cb568aa09941bf7bc3bbdfb0b8d
+  - enabled: 1
+    path: Assets/Scenes/OddNumbers.unity
+    guid: 02d0ead5f91ebc247ba5d14da0e74608
+  - enabled: 1
+    path: Assets/Scenes/Original_MainMenu.unity
+    guid: 455d672456f5ce34bbd50acdcbbabfbf
+  - enabled: 1
+    path: Assets/Scenes/QuizScene.unity
+    guid: 49fe167d74687384cbcb5cdbe9b314da
+  - enabled: 1
+    path: Assets/Scenes/RedirectLevel.unity
+    guid: e6fe1f3d4acd335488e29e3565b2b6a6
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ShapeIdentification.unity
+    guid: f2720116208224a4880e9edf9b196c5a
+  - enabled: 1
+    path: Assets/Scenes/VideoLessons.unity
+    guid: 87b649e9a2604174b9798b5dce21b1c2
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 03ebf35c33a031649a9143abb0496982
+  m_configObjects: {}

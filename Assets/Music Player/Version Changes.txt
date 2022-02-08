@@ -1,0 +1,28 @@
+1.1.6
+- Upgrade Package
+- Update Editors
+- Update Manual
+
+1.1.5
+- Fix DirtyUtil Script Compatibility
+
+1.1.4
+- Add AudioClip(s) Streaming from external urls
+
+1.1.3
+- New Load AudioClip(s) from external urls
+
+1.1.2
+- Fix PlayList Argument is out of range error
+
+1.1.1
+- Fix Auto Play Bug
+
+1.1.0
+- Add Music Shuffle Feature
+- Add Play List
+- Manual Update
+- Improve Music Player
+
+1.0.9
+- Unity 5 upgrade
