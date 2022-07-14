@@ -1,5 +1,5 @@
 # MAMA_Learning_Platform
-My Software Engineering Final Year Project
+My Software Engineering Final Year Project Built in the Unity Game Engine with C#
 ![MAMA Learning Platform Splash Screen](https://user-images.githubusercontent.com/41923209/178929427-e44af893-479d-45c5-bda5-cfaef9a419d6.png)
 
 A Great Thanks to my Family, Makerere University, our Supervisor Mr Alex Mwotil and Dr Joab Agaba and my collegues that made it possible to have our Platform Developed.
